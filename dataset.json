@@ -1,0 +1,7 @@
+// Offqc Dataset
+//
+{
+	"audioExt" : ".m4a",
+	"textExt"  : ".txt",
+	"id3Title" : true
+}
